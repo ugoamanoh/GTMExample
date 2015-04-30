@@ -6,7 +6,7 @@ import com.google.android.gms.tagmanager.DataLayer;
 import com.google.android.gms.tagmanager.TagManager;
 
 /**
- * Created by Ugo on 4/30/2015.
+ * Created by Ugo Amanoh on 4/30/2015.
  */
 public class GtmUtils {
 
