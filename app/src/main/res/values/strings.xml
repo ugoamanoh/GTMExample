@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GTMExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_two">Activity Two</string>
+    <string name="activity_three">Activity Three</string>
+    <string name="activity_one">Activity One</string>
+
+</resources>
