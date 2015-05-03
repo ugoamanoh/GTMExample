@@ -5,11 +5,11 @@
     android:gravity="center"
     android:orientation="vertical">
 
-    <TextView
+    <Button
         android:layout_width="wrap_content"
+        android:padding="15dp"
         android:layout_height="wrap_content"
-        android:textSize="30sp"
-        android:textStyle="bold"
-        android:text="@string/activity_two" />
+        android:text="Move to Activity 3"
+        android:id="@+id/button2" />
 
 </LinearLayout>

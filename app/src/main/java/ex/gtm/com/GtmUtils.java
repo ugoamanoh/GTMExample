@@ -15,6 +15,6 @@ public class GtmUtils {
 
     public static void pushOpenScreenEvent(Context context, String screenName) {
         DataLayer dataLayer = TagManager.getInstance(context).getDataLayer();
-        dataLayer.pushEvent("OpenScreen", DataLayer.mapOf("screenName", screenName));
+        dataLayer.pushEvent("openScreen", DataLayer.mapOf("screenName", screenName));
     }
 }
